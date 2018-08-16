@@ -4,6 +4,13 @@ background-color: #ffffff !important;
 
 }
 
+.hero_image_style {
+
+  background-image: url(../img/cannon_self.jpg);
+  background-size: cover;
+  height: 40rem;
+}
+
 /* font-family: 'Sawarabi Gothic', sans-serif;
 font-family: 'Dosis', sans-serif; */
 
@@ -11,7 +18,7 @@ font-family: 'Dosis', sans-serif; */
 
   background-color: #006400 !important;
   font-family: 'Sawarabi Gothic', sans-serif;
-  color: #ffffff;
+  color: #333333;
 }
 
 h1 {
