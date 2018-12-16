@@ -11,6 +11,13 @@ background-color: #ffffff !important;
   height: 40rem;
 }
 
+.hero_image_style_holiday {
+
+  background-image: url(../img/cannon_self.jpg);
+  background-size: cover;
+  height: 40rem;
+}
+
 /* font-family: 'Sawarabi Gothic', sans-serif;
 font-family: 'Dosis', sans-serif; */
 
